@@ -20,10 +20,20 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
+```
+NAME : SIVAPRASATH B
+REG NO : 212225230268
+SLOT NO : T1-I5
+```
 
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 
-# Result
+# Output
 
-# Output 
+<img width="846" height="714" alt="Screenshot 2026-03-09 211402" src="https://github.com/user-attachments/assets/2cd6b46c-9450-4b2c-ad23-5ef751ffe19c" />
+
+# Result
+   Thus to analyse given data using coeffificient of correlation and regression line is successful 
+    
+   
